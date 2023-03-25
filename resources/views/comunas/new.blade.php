@@ -13,7 +13,7 @@
   <div class="container">
     <div class="p-3 d-flex justify-content-center" style="margin-top: 10%">
       <div class="card">
-    <div class="card-header">
+    <div class="card-header" style="background-color: yellow">
     <h1>Add comuna</h1>  
   </div>
 

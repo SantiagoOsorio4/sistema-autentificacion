@@ -21,7 +21,7 @@
          <a href="{{ route('comunas.create') }}" class="btn btn-success mb-3">Add</a>
         <table class="table table table-bordered">
             <thead>
-              <tr class="text-center" style="background-color: aqua">
+              <tr class="text-center" style="background-color: black; color: white " >
                 <th scope="col">Id</th>
                 <th scope="col">Commune</th>
                 <th scope="col">municipality</th>
