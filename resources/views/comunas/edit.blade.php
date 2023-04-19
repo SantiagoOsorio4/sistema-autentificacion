@@ -26,8 +26,6 @@
                    disabled="disabled" values="{{$comuna->comu_codi}}">
               <div id="codigoHelp" class="form-text">Commune Id</div>
             </div>
-
-
             <div class="mb-3">
               <label for="name" class="form-label">Commune</label>
               <input type="text" required class="form-control" id="name" placeholder="Commune name"
